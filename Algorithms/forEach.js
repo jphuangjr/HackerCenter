@@ -3,6 +3,15 @@
 
 var forEach = function(collection, callback){
 	//TODO: Your Code Here
+	if(Array.isArray(collection)){
+		for(var i=0; i<collection.length; i++){
+			callback(collection[i])
+		}
+	} else {
+		for(var key in collection){
+			callback(collection[key])
+		}
+	}
 }
 
 // Eg.

@@ -3,6 +3,13 @@
 
 var indexOf = function(array, target){
 	//TODO: Your Code Here
+	for(var i=0; i<array.length; i++){
+		if(array[i] === target){
+			return i;
+		} else if(i === array.length -1){
+			return -1
+		}
+	}
 }
 
 // ex.

@@ -3,11 +3,10 @@ var Queue = function() {
 
 };
 
-
 Queue.prototype.enqueue = function(value) {
-
+  this.storage.push(value);
 };
 
-Queue.prototype.dequeue = function(value) {
-
+Queue.prototype.dequeue = function() {
+   this.storage.shift(); 
 };

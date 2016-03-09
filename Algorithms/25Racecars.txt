@@ -1,0 +1,20 @@
+THis is going to be more of a thinking puzzle question rather than an actual algorithm.
+I want you to grab a whiteboard or piece of paper when you try to solve this rather than using
+a computer. DONT LOOK UP THE ANSWER ONLINE! These are some logic questions used by companies
+like Google and Facebook
+
+/////////////////////////////// 25 Racecars ///////////////////////////////////////////////////////////////////////////////
+
+"There are 25 racecars that all go at different speeds. Their speed will never change race to race. You want to find out
+the 5 fastest racecars but you dont have a timer. The racetrack can only accommodate 5 cars per race at a time. What is the
+least amount of races you need to figure out the top 5 cars?"
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+ DONT LOOK UP THE ANSWER. Draw out your through process on a piece of paper or use a whiteboard.
+
+ //////////////////////////////////////////// ANSWER /////////////////////////////////////////////////////////////////////
+
+
+
+
+ ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
